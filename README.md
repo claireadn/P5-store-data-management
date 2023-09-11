@@ -14,8 +14,8 @@ Il existe un Excel avec les liens entre les références du produit dans l’ERP
   * La colonne id_web du fichier correspond au SKU des produits dans la boutique en ligne.
     
 2. Suite à cette fusion, BottleNeck a besoin de connaître :
-   * Le chiffre d’affaires par produit
-   * Le chiffre d’affaires total
+  * Le chiffre d’affaires par produit
+  * Le chiffre d’affaires total
       
 4. L'entreprise veut également vérifier d'éventuelles erreurs de saisie dans certains prix de produits.
   
