@@ -1,5 +1,8 @@
 # Optimisez la gestion des données d'une boutique avec Python
+
 Projet de rapprochement de deux BDD pour une meilleure analyse des données d’une boutique en ligne.
+
+**(Find English translation below).**
 
 ## Mission
 
