@@ -43,7 +43,7 @@ Project to merge two databases to improve data analysis for an online store.
 
 Data from the online store and CMS of BottleNeck, a very prestigious wine shop.
 
-Rapprochement de deux exports :
+Merger of two exports:
   * An ERP export with product references, prices and stock status.
   * An export from a CMS table with information on products sold online (name, description, number of sales, etc.).
 
