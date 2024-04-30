@@ -1,3 +1,5 @@
+Note: Le notebook a été mis à jour avec un code plus cohérent et moins long / The notebook has been updated with more cohesive and shorter code.
+
 # Optimisez la gestion des données d'une boutique avec Python
 
 Projet de rapprochement de deux BDD pour une meilleure analyse des données d’une boutique en ligne.
